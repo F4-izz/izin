@@ -1,1 +1,1 @@
-# izin
+# izinsc
